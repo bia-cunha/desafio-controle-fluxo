@@ -9,8 +9,9 @@ O objetivo é criar um programa que recebe dois parâmetros inteiros via termina
 
 Além disso, o sistema valida os parâmetros e lança uma exceçãocustomizada se o primeiro número for maior que o segundo.</p>
 
+###
 
-🚀 **Funcionalidades**
+## 🚀 **Funcionalidades**
 
 :heavy_check_mark: **Entrada de Parâmetros**: Recebe dois números inteiros via terminal.
 
